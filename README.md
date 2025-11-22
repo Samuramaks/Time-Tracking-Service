@@ -30,6 +30,7 @@ docker-compose up --build
 
 ---
 ## Структура проекта
+```
 src/
 ├── controller/       # REST API (TimeEntryController, ReportController)
 ├── service/          # Бизнес-логика (TimeEntryService, EmployeeService)
@@ -42,6 +43,8 @@ src/
 └── resources/
     ├── application.yml    # Конфигурация Spring Boot
     └── data.sql           # Пример инициализации БД
+
+```
 
 
 ---
