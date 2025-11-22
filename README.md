@@ -25,8 +25,7 @@
 --- 
 ## Сборка
 
-# запустить в Docker (с PostgreSQL)
-docker-compose up --build
+**docker-compose up --build**  (запустить в Docker (с PostgreSQL))
 
 ---
 ## Структура проекта
@@ -51,10 +50,11 @@ src/
 
 ## 📖 Документация
 
+```
 Javadoc - target/site/apidocs/index.html (после mvn javadoc:javadoc)
-
 Swagger UI - http://localhost:8080/swagger-ui
 Архитектура - Подробные комментарии в коде (например, в TimeEntryService.totalPaymentEmployee())
+```
 
 ---
 
@@ -73,3 +73,5 @@ SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/time_tracking
 SPRING_DATASOURCE_USERNAME=user
 SPRING_DATASOURCE_PASSWORD=user
 API_SERVER_URL=http://localhost:8080
+
+```
