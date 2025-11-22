@@ -5,8 +5,8 @@
 [![Java 17+](https://img.shields.io/badge/Java-17%2B-ED8B00?logo=java&logoColor=white)](https://openjdk.org)
 [![Spring Boot 3](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
-[![Swagger UI](https://img.shields.io/badge/API-Swagger_UI-85EA2D?logo=swagger&logoColor=black)](http://localhost:8080/swagger-ui)
-[![Tests: 14/14](https://img.shields.io/badge/Tests-14%20✓-brightgreen)](https://github.com/your-username/time_tracking_service/actions)
+[![Swagger UI](https://img.shields.io/badge/API-Swagger_UI-85EA2D?logo=swagger&logoColor=black)]
+[![Tests: 14/14](https://img.shields.io/badge/Tests-14%20✓-brightgreen)]
 
 ---
 
